@@ -272,7 +272,7 @@ their authority in a manner that substantively altered their decision upon
 matters properly addressed; or 3) The judgment bears an imperfection in form
 not affecting its substance. The court may then only modify or correct the
 judgment, and then only so far as necessary to effectuate the evident intent of
-the judgment and promote justice between the parties.<a name="ref8"><sup>[8](#fn8)</sup></a>
+the judgment and promote justice between the parties.<a name="ref8" href="#fn8"><sup>8</sup></a>
 
 ### 5.3. Force and Effect of Court Confirmation. 
 
@@ -283,7 +283,7 @@ referenced rules, and that the judgement issued as described. Absent
 application of Rules 5.1 and 5.2, above, the court receiving the motion shall
 give it the same force and effect in all respects as any judgment issued by the
 court, and the judgment shall be so treated by all persons, institutions, officers,
-or agents presented with the same.<a name="ref9"><sup>[9](#fn9)</sup></a>
+or agents presented with the same.<a name="fn9"><a href="#fn9"><sup>9</sup></a></a>
 
 ## Footnotes
 
@@ -318,6 +318,6 @@ suit for emancipation, as in ULC, _Uniform Guardianship and Protective Proceedin
 
 <a name="fn7"><sup>7</sup></a> _Compare_ , Federal Arbitration Act (FAA), 9 U.S.C. § 2.
 
-<a name="fn8"><sup>[8](#ref8)</sup></a> _Compare, id_. § 13.
+<a name="fn8" href="#ref8"><sup>8</sup></a> _Compare, id_. § 13.
 
-<a name="fn9"><sup>[9](#ref9)</sup></a> _Compare, id_. § 13.
+<a name="fn9" href="#ref9"><sup>9</sup></a> _Compare, id_. § 13.
