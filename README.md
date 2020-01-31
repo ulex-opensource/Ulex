@@ -57,8 +57,8 @@ claim or question arising under or related to this agreement, including the prop
 resolving disputes, all rules applied therein, and the form and effect of any judgment."
 
 For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.1" or
-"Ulex 1.1 (2017)." Particular rules can be cited using this format: "Ulex 1.1, Rule 3.
-(2017)." To cite this document, use the shortened URL: https://goo.gl/YByFti.
+"Ulex 1.1 (2017)." Particular rules can be cited using this format: "Ulex 1.1, Rule 3
+(2017)" or, when greater exactitude is needed, "Ulex 1.1, Rule 2.6.5, §§ 2-102 & 2-103 (2017)." To cite this document, use the shortened URL: https://goo.gl/YByFti.
 
 The .PDF version of this file has been certified in the Bitcoin blockchain via the Proof
 of Existence service. To determine the veracity of your copy, test it at
@@ -70,5 +70,5 @@ in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time 
 * [Video from BIL, in Los Angeles](https://youtu.be/I83ywM-zd4k)
 * [Text of version 1.0](https://goo.gl/bChSpI)
 * [Text of version 1.1](https://goo.gl/YByFti)
-* [Tom W. Bell, "Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
-
+* Tom W. Bell, ["Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
+* A [brief look at Ulex](https://www.chartercitiesinstitute.org/post/ulex-a-legal-framework) on the Charter Cities Institute blog
