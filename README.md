@@ -51,20 +51,16 @@ In either case, users can download, use, and modify the rules free of charge.
 How can you run Ulex? Either move to a jurisdiction that has adopted the legal
 system or, in what amounts to much the same thing, mutually agree with others to have Ulex
 govern your legal relations. The first option remains for now only a theoretical possibility;
-the second calls for little more than a handshake. To make it formal, an agreement to run
-Ulex should have a choice of law and forum clause along these lines: "Ulex 1.1 governs any
-claim or question arising under or related to this agreement, including the proper forum for
-resolving disputes, all rules applied therein, and the form and effect of any judgment."
+the second calls for little more than a handshake.
 
-For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.1" or
-"Ulex 1.1 (2017)." Particular rules can be cited using this format: "Ulex 1.1, Rule 3
-(2017)" or, when greater exactitude is needed, "Ulex 1.1, Rule 2.6.5, §§ 2-102 & 2-103 (2017)." To cite this document, use the shortened URL: https://goo.gl/YByFti.
+To make it formal, an agreement to run Ulex should have a choice of law and forum clause along these lines:
+"Ulex 1.2 governs any claim or question arising under or related to this agreement, including the proper forum
+for resolving disputes, all rules applied therein, and the form and effect of any judgment."
 
-The .PDF version of this file has been certified in the Bitcoin blockchain via the Proof
-of Existence service. To determine the veracity of your copy, test it at
-https://proofofexistence.com/. A true copy will return a report along the lines of, "Registered
-in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time of registration
-(which of course cannot be simultaneously recorded in this, the selfsame document).
+For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.2" or
+"Ulex 1.2 (2020)." Particular rules can be cited using this format: "Ulex 1.2, Rule 2.6.5
+(2020)" or, when greater exactitude is needed, "Ulex 1.2, Rule 2.6.5, §§ 2-102 & 2-103 (2020)."
+
 
 ## Where Can I Learn More About Ulex?
 * [Video from BIL, in Los Angeles](https://youtu.be/I83ywM-zd4k)
