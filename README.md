@@ -21,8 +21,8 @@ Ulex is not imposed by any government but instead adopted by the mutual consent 
 ## How Does Ulex Resolve Disputes?
 The default procedure for resolving disputes in Ulex has three elements:
 1.  Judges:  Each of the opposing parties chooses a judge, and those two judges choose a third.
-2.  Remedies:  The judges choose a remedy offered by one of the parties.
-3.  Costs:  The losing party pays the winning party's legal costs.
+2.  Remedies:  The judges choose a remedy offered by one of the parties or dismiss the case.
+3.  Costs:  The losing party pays the winning party's reasonable legal costs.
  
 Ulex also includes more detailed procedural rules, authored by preeminent nongovernmental organizations.
 
