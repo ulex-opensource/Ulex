@@ -157,7 +157,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2017)](http://www.uniformlaws.org/shared/docs/parentage/UPA2017_Final_2017sep22.pdf).
 
 #### 2.6.4. Marriage
 
@@ -175,7 +175,7 @@ ABA, [Model Nonprofit Corporation Act (2008)](https://web.archive.org/web/201605
 
 #### 2.7.2. Corporations
 
-ABA, [Model Business Corporation Act (2016)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
+ABA, [Model Business Corporation Act (2016)](http://web.archive.org/web/20181014044640/https://www.americanbar.org/content/dam/aba/administrative/business_law/corplaws/2016_mbca.pdf).
 
 #### 2.7.3. Business Organizations
 
