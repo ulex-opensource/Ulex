@@ -29,7 +29,7 @@ Any party to a suit may appeal it to a panel composed of the judges who issued t
 1. One chosen by the first judge chosen for the deciding panel and its chair;
 2. One chosen by the second judge chosen for the deciding panel and its chair;
 3. One chosen by the two judges of the deciding panel not chairs; and
-4. One chosen by the judges chosen under subsections 1 and 2, above, who shall chair the appellate panel.
+4. One, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
 
 ## 2. Substantive Rules
 
