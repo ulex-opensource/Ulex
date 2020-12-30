@@ -12,15 +12,24 @@ ALI & International Institute for the Unification of Law, Principles of Transnat
 
 #### 1.2.1. Judges
 
-Each party chooses a judge and those two judges choose a third.<a name="ref1" href="#fn1"><sup>1</sup></a>
+Each party shall choose a judge and those two judges shall choose a third, who shall chair the panel of three judges.<a name="ref1" href="#fn1"><sup>1</sup></a>
 
 #### 1.2.2. Remedies
 
-The judges choose one party's proposed remedy.<a name="ref2" href="#fn2"><sup>2</sup></a>
+Judges must choose one party's proposed remedy by majority vote or dismiss the suit but shall not order any other remedy.<a name="ref2" href="#fn2"><sup>2</sup></a>
 
 #### 1.2.3. Costs
 
-The losing party pays the winning party's legal costs.<a name="ref3" href="#fn3"><sup>3</sup></a>
+A party whose proposed remedy was not chosen shall pay the reasonable legal costs of any counterparty whose remedy was chosen.<a name="ref3" href="#fn3"><sup>3</sup></a>
+
+#### 1.2.4 Appeals
+
+Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
+
+1. One chosen by the first judge chosen for the deciding panel and its chair;
+2. One chosen by the second judge chosen for the deciding panel and its chair;
+3. One chosen by the two judges of the deciding panel not chairs; and
+4. One, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
 
 ## 2. Substantive Rules
 
@@ -28,7 +37,7 @@ The losing party pays the winning party's legal costs.<a name="ref3" href="#fn3"
 
 #### 2.1.1. Generally
 
-ALI, [Restatement of Torts, Second (1965-79)](https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/).
+ALI, [Restatement of Torts, Second (1965-79)](https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/), excepting §§ 895 A-D (immunizing government agents from liability for their torts).
 
 #### 2.1.2. Defective Products
 
@@ -96,7 +105,7 @@ ALI, [Restatement of Restitution and Unjust Enrichment, Third (2011)](https://we
 
 #### 2.4.7. Employment
 
-ALI, [Restatement of Employment Law, Third (2014)](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/employment-law/).
+ALI, [Restatement of Employment Law, Third (2015)](https://web.archive.org/web/20160501/https://www.ali.org/publications/show/employment-law/).
 
 ### 2.5. Uniform Commercial Codes
 
@@ -148,7 +157,7 @@ ULC, [Uniform Guardianship and Protective Proceedings Act (1997)](https://web.ar
 
 #### 2.6.3. Parentage
 
-ULC, [Uniform Parentage Act (2002)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
+ULC, [Uniform Parentage Act (2017)](https://web.archive.org/web/20181029/http://uniformlaws.org/Act.aspx?title=Parentage%20Act%20(2002)).
 
 #### 2.6.4. Marriage
 
@@ -166,7 +175,7 @@ ABA, [Model Nonprofit Corporation Act (2008)](https://web.archive.org/web/201605
 
 #### 2.7.2. Corporations
 
-ABA, [Model Business Corporation Act (2013)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
+ABA, [Model Business Corporation Act (2016)]( https://web.archive.org/web/20160501/https://apps.americanbar.org/dch/committee.cfm?com=CL270000).
 
 #### 2.7.3. Business Organizations
 
@@ -223,6 +232,18 @@ Adulthood, age of consent, majority, and capacity to contract begin 18 years aft
 
 A cause of action subject to the statute of limitations or a claim against adverse possession or prescription expires seven years
 after its accrual.
+
+#### 2.8.6.  Wrongful Death and Survival Act
+
+1.	Whenever the death of a natural person, including an unborn child, is caused by another party’s wrongful act or omission, that party shall be liable to the deceased person’s Estate and Survivors for any damage thereby caused to the deceased or to them, respectively.
+	
+2.	The deceased person’s Estate shall include economic and non-economic losses wrongfully caused by a party to the deceased while still living and to the Estate thereafter, which the Estate’s representative may bring suit to recover.
+
+3.	Survivors’ damages include economic and non-economic losses that the wrongful act caused to them and to the estimated net earnings the deceased would have earned during life but for the wrongful death.  Survivors under this section include spouses and heirs as defined in Rule 2.6.5, §§ 2-102 & 2-103.  Survivors shall take the same share of lost earnings as there provided for intestate successors unless the deceased has provided otherwise by will.
+
+4.	No action for damages resulting from the death of an unborn child may be brought under this section except for an illegal abortion.
+
+5.	Separate actions brought for the same wrongful death shall be consolidated on motion of any party.
 
 ### 2.9. Substantive Catchall Rule
 
