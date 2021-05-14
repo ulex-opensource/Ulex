@@ -260,6 +260,8 @@ If a rule offers alternative provisions, the alternative offered first prevails 
 If a rule refers to an institution, office, power, or privilege that does not exist in a jurisdiction running Ulex, the rule instead
 refers to the closest functionally equivalent institution, office, power, or privilege that does or could exist in one.
 
+If a rule refers to an institution or legal status that does not exist in a jurisdiction running Ulex, the rule instead refers to the closest functionally equivalent institution or legal status that does or could exist in it unless the most similar such institution or legal status is substantially different or has a materially different functional effect from its putative counterpart, in which case the reference has no effect.
+
 ### 3.3. Conflicting Rules
 
 If different rules give conflicting results, the rule listed later in this index prevails, but no rule can prevail over this one.
