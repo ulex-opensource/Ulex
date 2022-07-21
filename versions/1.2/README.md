@@ -39,6 +39,18 @@ Absent judges shall be replaced according to the same procedures by which they w
 
 If a defendant does not answer a valid notice of a triable claim, the judge chosen by the plaintiff may issue a public default judgment. A panel formed with the defendant’s cooperation under § 1.2.1 may reform the judgment at any time.
 
+### 1.3. Judicial Promise
+
+No one may adjudicate a dispute under Ulex without first making this statement or its equivalent to the parties: “I promise to administer and judge your dispute impartially, based on my understanding of the relevant law, conditioned on your unanimous consent, given after my disclosure of any conflict of interest. I foresee and intend that you will rely on this promise and hereby offer to pay double any civil damages that you win for my breach of it, this offer to be held open for the applicable statute of limitations in consideration of the trust that you vest in me.” 
+
+### 1.4. Mutual Agreement to Alternative Procedural Rules
+
+Parties to a suit under Ulex may by unanimous written agreement resolve their dispute by other than the Default Procedural Rules, but not by procedural rules inconsistent with due process, substantive justice, or the rule of law.
+
+### 1.5. Evidence
+
+NCCUSL, Uniform Rules of Evidence (2005).
+
 ## 2. Substantive Rules
 
 ### 2.1. Tort Law
