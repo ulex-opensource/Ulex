@@ -22,7 +22,7 @@ Judges must choose one party's proposed remedy by majority vote or dismiss the s
 
 A party whose proposed remedy was not chosen shall pay the reasonable legal costs of any counterparty whose remedy was chosen.<a name="ref3" href="#fn3"><sup>3</sup></a>
 
-#### 1.2.4 Appeals
+#### 1.2.4. Appeals
 
 Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
 
@@ -30,6 +30,14 @@ Any party to a suit may appeal it to a panel composed of the judges who issued t
 2. An appellate judge chosen by the chair of the deciding panel and the other judge most recently chosen;
 3. An appellate judge chosen by the two judges of the deciding panel not chairs; and
 4. An appellate judge, who shall chair the appellate panel, chosen by the judges chosen under subsections 1 and 2, above.
+
+#### 1.2.5. Replacements
+
+Absent judges shall be replaced according to the same procedures by which they were appointed.
+
+#### 1.2.6. Default Judgments
+
+If a defendant does not answer a valid notice of a triable claim, the judge chosen by the plaintiff may issue a public default judgment. A panel formed with the defendant’s cooperation under § 1.2.1 may reform the judgment at any time.
 
 ## 2. Substantive Rules
 
