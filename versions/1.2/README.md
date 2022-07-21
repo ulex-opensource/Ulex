@@ -1,4 +1,4 @@
-# Ulex Open Source Legal Operating System Version 1.2 (2020)
+# Ulex Open Source Legal Operating System Version 1.2 (2022)
 
 ![ulex europaeus](ulex-europaeus.png)
 
