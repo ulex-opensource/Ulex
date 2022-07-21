@@ -45,7 +45,7 @@ No one may adjudicate a dispute under Ulex without first making this statement o
 
 ### 1.4. Mutual Agreement to Alternative Procedural Rules
 
-Parties to a suit under Ulex may by unanimous written agreement resolve their dispute by other than the Default Procedural Rules, but not by procedural rules inconsistent with due process, substantive justice, or the rule of law.
+Parties to a suit under Ulex may by unanimous written agreement resolve their dispute by other than the Default Procedural Rules, but not by procedural rules inconsistent with due process, substantive justice, and the rule of law.
 
 ### 1.5. Evidence
 
