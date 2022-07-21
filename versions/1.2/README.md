@@ -49,7 +49,7 @@ Parties to a suit under Ulex may by unanimous written agreement resolve their di
 
 ### 1.5. Evidence
 
-NCCUSL, Uniform Rules of Evidence (2005).
+NCCUSL, [Uniform Rules of Evidence](https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=40833f73-44ed-6e0b-2af2-a75ff85c3cf2&forceDialog=0) (2005).
 
 ## 2. Substantive Rules
 
