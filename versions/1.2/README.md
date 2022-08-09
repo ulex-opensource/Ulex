@@ -227,7 +227,7 @@ ULC, UBOC, [Article 7: Uniform Unincorporated Nonprofit Association Act (2011)](
 
 #### 2.7.10. Business Trusts
 
-ULC, UBOC, [Article 8: Uniform Statutory Trust Entity Act (2013)](https://web.archive.org/web/20160501/http://www.uniformlaws.org/Act.aspx?title=Statutory%20Trust%20Entity%20Act).
+ULC, UBOC, [Article 8: Uniform Statutory Trust Entity Act (2013)](https://www.uniformlaws.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=1e167a5a-302d-21b2-3a5d-e013aee6bb32&forceDialog=0).
 
 ### 2.8. Substantive Administrative Rules
 
