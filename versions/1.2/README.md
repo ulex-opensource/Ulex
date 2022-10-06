@@ -41,7 +41,7 @@ If a defendant does not answer a valid notice of a triable claim, the judge chos
 
 ### 1.3. Judicial Promise
 
-No one may adjudicate a dispute under Ulex without first making this statement or its equivalent to the parties: “Having fully disclosed my professional qualifications, criminal record, and any conflict of interest, I hereby promise to administer and judge your dispute impartially and competently, based on my understanding of the relevant law. I foresee and intend that you will rely on this promise and hereby offer to pay double any civil damages that you win for my breach of it, this offer to be held open for the applicable statute of limitations in consideration of the trust that you vest in me.” 
+No one may adjudicate a dispute under Ulex without first making this statement or its equivalent to the parties: “I hereby promise that I have fully disclosed my professional qualifications, criminal record, and any conflict of interest, and will administer and judge your dispute impartially and competently, based on my understanding of the relevant law. I foresee and intend that you will rely on this promise and hereby offer to pay double any civil damages that you win for my breach of it, this offer to be held open for the applicable statute of limitations in consideration of the trust that you vest in me.” 
 
 ### 1.4. Mutual Agreement to Alternative Procedural Rules
 
