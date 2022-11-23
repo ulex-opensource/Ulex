@@ -68,4 +68,4 @@ For greatest accuracy, citations to Ulex should note the version; e.g.: "Ulex 1.
 * [Text of version 1.1](https://github.com/ulex-opensource/Ulex/tree/master/versions/1.1)
 * [Text of version 1.2](https://github.com/ulex-opensource/Ulex/tree/master/versions/1.2)
 * Chapter 3.7 of Tom W. Bell, ["Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
-* A [brief look at Ulex](https://www.chartercitiesinstitute.org/post/ulex-a-legal-framework) on the Charter Cities Institute blog
+* A [brief look at Ulex](https://web.archive.org/web/20220121082849/https://www.chartercitiesinstitute.org/post/ulex-a-legal-framework) on the Charter Cities Institute blog
