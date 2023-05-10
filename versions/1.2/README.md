@@ -135,7 +135,7 @@ ALI & and Uniform Law Commission (ULC), [Uniform Commercial Code (UCC), Article 
 
 #### 2.5.2. Leases of Goods
 
-ALI & ULC, [UCC Article 2A: Leases (2002)](https://web.archive.org/web/20160501/https://www.law.cornell.edu/ucc/2A).
+ALI & ULC, UCC Article 2A: Leases (1990).
 
 #### 2.5.3. Negotiable Instruments
 
