@@ -24,7 +24,7 @@ A party whose proposed remedy was not chosen shall pay the reasonable legal cost
 
 #### 1.2.4. Appeals
 
-Any party to a suit may appeal it to a panel composed of the judges who issued the decision under appeal plus four additional judges:
+A defendant may appeal a judgment if at least one third of the judges in the issuing panel did not join the decision. The appeal must be made within 30 calendar days of the judgment. Only two appeals may be had. An appellate panel shall justify any decision it makes in a written public opinion. The panel hearing the appeal shall immediately dismiss the case unless a majority of the judges determine on the pleadings that the prior panel based its decision on an error of law or a clearly erroneous finding of fact. The appeal will be decided by the panel that issued the judgment on appeal plus these four additional judges:
 
 1. An appellate judge chosen by the chair of the deciding panel and one judge most recently chosen;
 2. An appellate judge chosen by the chair of the deciding panel and the other judge most recently chosen;
