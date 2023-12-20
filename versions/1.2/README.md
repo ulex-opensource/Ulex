@@ -185,7 +185,7 @@ ULC, [Uniform Premarital and Marital Agreements Act (2012)](https://web.archive.
 
 #### 2.6.5. Probate
 
-ULC, [Uniform Probate Code (2010)](https://web.archive.org/web/20160502/http://www.uniformlaws.org/Act.aspx?title=Probate%20Code).
+ULC, [Uniform Probate Code (2019)](https://higherlogicdownload.s3.amazonaws.com/UNIFORMLAWS/23db9ca0-3f16-99cd-da87-9ee963cab400_file.pdf).
 
 ### 2.7. Legal Persons
 
