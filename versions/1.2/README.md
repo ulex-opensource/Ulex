@@ -57,7 +57,7 @@ NCCUSL, [Uniform Rules of Evidence](https://web.archive.org/web/20220721175149/h
 
 #### 2.1.1. Generally
 
-ALI, [Restatement of Torts, Second (1965-79)](https://web.archive.org/web/20160430/https://www.ali.org/publications/show/torts/), excepting §§ 895 A-D (immunizing government agents from liability for their torts).
+ALI, [Restatement of Torts, Second (1965-79)](https://docs.google.com/document/d/1ci7q1Wel8tji85HWIF-kVrXfr9H2WoOeFOqFJvSPWg8), excepting §§ 895 A-D (immunizing government agents from liability for their torts).
 
 #### 2.1.2. Defective Products
 
